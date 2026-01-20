@@ -61,6 +61,3 @@ Digite o valor da compra: 150
 Compra realizada!
 Digite 0 para sair ou 1 para continuar
 ```
-
-
-Se quiser, posso deixar o README **ainda mais curto**, ou adaptar o texto exatamente ao **padrão que seu professor pede**.
